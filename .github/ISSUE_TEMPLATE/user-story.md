@@ -1,7 +1,7 @@
 ---
-name: 'USER STORY: <TITLE>'
+name: USER STORY
 about: user stories for love running
-title: user story
+title: 'USER STORY: <TITLE>'
 labels: ''
 assignees: MFS4711
 
